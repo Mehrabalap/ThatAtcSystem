@@ -7,7 +7,7 @@ import random
 import requests
 import datetime
 import json
-
+print('hello')
 flights = {}
 
 # create tkinter window
